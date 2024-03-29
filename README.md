@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsalat123
+- 👋 Hi, I’m Julian
 - 👀 I’m interested in: Programing (HTML, CSS, Javascript)
 - 🌱 I’m currently learning: C# & Angular
 - ⚡ Fun fact: im just 16 years old
